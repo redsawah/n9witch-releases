@@ -1,12 +1,17 @@
-# n9witch releases
+# n9'witch public releases
 
-Public binary releases for n9witch clients.
+Public download repository for n9'witch client builds.
 
-Current public release: [v0.171](https://github.com/redsawah/n9witch-releases/releases/tag/v0.171)
+Current release: [v0.171](https://github.com/redsawah/n9witch-releases/releases/tag/v0.171)
 
-Downloads:
+## Downloads
 
-- [macOS DMG](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/n9witch-macos-0.171.dmg)
-- [Android APK](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/n9witch-android-0.171-debug.apk)
-- [Windows ZIP](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/n9witch-windows-0.162.zip)
+- [macOS DMG 0.171](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/n9witch-macos-0.171.dmg)
+- [Windows ZIP 0.171](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/n9witch-windows-0.171.zip)
+- [Android APK 0.171](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/n9witch-android-0.171-debug.apk)
 - [SHA-256 checksums](https://github.com/redsawah/n9witch-releases/releases/download/v0.171/checksums.txt)
+
+## Notes
+
+This repository intentionally contains only public client releases. Server-side
+packages and node installation assets are not published here.
